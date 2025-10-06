@@ -51,20 +51,20 @@ The analysis is based on a single dataset containing customer demographic, accou
 ## 💡 Key Insights (Inferred/Expected)
 
 Based on typical banking data and the visualizations present, the analysis is likely to reveal insights such as:
-1. Age Group Risk: Customers in a specific age range (e.g., 40-60) may exhibit the highest churn rates, possibly due to retirement or seeking better rates elsewhere.
-2. Balance Dependency: Customers with either very low (near zero) or extremely high balances might show differing churn patterns.
-3. Inactivity Penalty: Customers marked as "Not Active Members" are significantly more likely to churn.
-4. Product Stickiness: There may be a sweet spot for the number of products—customers with only 1 product are high-risk, while those with 3 or 4 products might be restricted from churn due to internal bank rules, or are simply already satisfied.
+1. <u>Age Group Risk</u> : Customers in a specific age range (e.g., 40-60) may exhibit the highest churn rates, possibly due to retirement or seeking better rates elsewhere.
+2. <u>Balance Dependency</u> : Customers with either very low (near zero) or extremely high balances might show differing churn patterns.
+3. <u>Inactivity Penalty</u>: Customers marked as "Not Active Members" are significantly more likely to churn.
+4. <u>Product Stickiness</u>: There may be a sweet spot for the number of products—customers with only 1 product are high-risk, while those with 3 or 4 products might be restricted from churn due to internal bank rules, or are simply already satisfied.
 
 ## 🚀 How to Use
 To explore the interactive dashboard:
 
-Clone the Repository:
+1. Clone the Repository:
 
 git clone https://github.com/srishtirastogiwork23/Bank-Customer-Churn-Analysis.git
 
-Install Power BI Desktop: Ensure you have Power BI Desktop installed on your machine.
+2. Install Power BI Desktop: Ensure you have Power BI Desktop installed on your machine.
 
-Open the File: Navigate to the cloned folder and open the Bank_Churn_Analysis_Dashboard.pbix file (or similar named file).
+3. Open the File: Navigate to the cloned folder and open the Bank_Churn_Analysis_Dashboard.pbix file (or similar named file).
 
-Interact: The dashboard will open in Power BI Desktop. Use the filters (Country, Gender, etc.) and visual interactions to explore the data and derive your own conclusions.
+4. Interact: The dashboard will open in Power BI Desktop. Use the filters (Country, Gender, etc.) and visual interactions to explore the data and derive your own conclusions.
