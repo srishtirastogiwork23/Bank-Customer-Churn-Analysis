@@ -61,7 +61,7 @@ To explore the interactive dashboard:
 
 Clone the Repository:
 
-git clone [[Your Repository URL]](https://github.com/srishtirastogiwork23/Bank-Customer-Churn-Analysis.git)
+git clone https://github.com/srishtirastogiwork23/Bank-Customer-Churn-Analysis.git
 
 Install Power BI Desktop: Ensure you have Power BI Desktop installed on your machine.
 
